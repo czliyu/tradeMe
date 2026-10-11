@@ -1,0 +1,167 @@
+.calibre {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    padding: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block;
+    margin: 1em 0
+    }
+.calibre2 {
+    height: auto;
+    width: auto;
+    border: currentColor none 0
+    }
+.calibre3 {
+    display: block;
+    height: 0
+    }
+.calibre4 {
+    font-size: 0.75em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.contents {
+    display: block;
+    font-size: 1em;
+    line-height: 200%;
+    margin-left: 0;
+    text-align: justify
+    }
+.contents-title {
+    display: block;
+    font-size: 1.375em;
+    font-weight: normal;
+    line-height: 200%;
+    text-align: center
+    }
+.contents1 {
+    display: block;
+    font-size: 1em;
+    line-height: 200%;
+    text-align: justify
+    }
+.contents2 {
+    display: block;
+    font-size: 1em;
+    line-height: 200%;
+    margin-left: 3em;
+    text-align: justify
+    }
+.fnote {
+    display: block;
+    font-size: 1em;
+    line-height: 200%;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0
+    }
+.middle-img {
+    display: block;
+    font-size: 1em;
+    line-height: 200%;
+    text-align: center;
+    margin: 0
+    }
+.p {
+    color: #632423;
+    display: block;
+    font-size: 1em;
+    font-weight: normal;
+    line-height: 200%;
+    text-align: left;
+    text-indent: 0;
+    margin: 1em 0
+    }
+.p1 {
+    color: #632423;
+    display: block;
+    font-size: 1.25em;
+    font-weight: normal;
+    line-height: 200%;
+    text-align: left;
+    text-indent: 0;
+    margin: 1em 0
+    }
+.p2 {
+    color: #632423;
+    display: block;
+    font-size: 1.25em;
+    font-weight: normal;
+    line-height: 200%;
+    text-align: center;
+    margin: 0.67em 0
+    }
+.p3 {
+    color: #632423;
+    display: block;
+    font-size: 1.25em;
+    font-weight: normal;
+    line-height: 200%;
+    text-align: left;
+    text-indent: 0;
+    margin: 0.83em 0
+    }
+.p4 {
+    color: #632423;
+    display: block;
+    font-size: 1.25em;
+    font-weight: normal;
+    line-height: 200%;
+    text-align: left;
+    text-indent: 0;
+    margin: 1.33em 0
+    }
+.pcalibre {
+    text-decoration: none
+    }
+.pic {
+    display: block;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    text-align: center
+    }
+.yanse {
+    color: #632423;
+    display: block;
+    font-size: 1em;
+    line-height: 200%;
+    text-indent: 2em;
+    margin: 1em 0
+    }
+.you {
+    display: block;
+    font-size: 1em;
+    line-height: 200%;
+    text-align: right;
+    text-indent: 2em;
+    margin: 1em 0
+    }
+.ziti {
+    color: #632423;
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    text-align: left;
+    margin: 1em 0
+    }
+.ziti1 {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    text-align: left;
+    margin: 1em 0
+    }
+.ziti2 {
+    display: block;
+    font-size: 1em;
+    line-height: 200%;
+    text-indent: 2em;
+    margin: 1em 0
+    }
+.pcalibre1:hover {
+    color: #632423;
+    text-decoration: underline
+    }

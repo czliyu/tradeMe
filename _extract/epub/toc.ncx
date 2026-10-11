@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zho">
+  <head>
+    <meta content="635ee921-be77-446a-a506-8117d28e4024" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (3.39.1)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>以交易为生II：卖出的艺术</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="0">
+      <navLabel>
+        <text>以交易为生II：卖出的艺术</text>
+      </navLabel>
+      <content src="text/part0000.html#O2I6G0-039de8285f894ce49ef770fffa1b9408"/>
+    </navPoint>
+  </navMap>
+</ncx>
